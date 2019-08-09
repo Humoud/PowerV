@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<configuration>
+    <isoPath>D:\ISOs</isoPath>
+    <vmStorage>D:\Hyper-V\VirtualHardDisks</vmStorage>
+    <vmConfig>D:\Hyper-V\Config</vmConfig>
+</configuration>
